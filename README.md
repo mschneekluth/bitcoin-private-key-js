@@ -6,7 +6,7 @@ Create a Bitcoin Private Key in Base 6 Format
 
 # 1. Download HTML file
 # 2. Open in web browser to generate Bitcoin Private Key
-# 3. Open Bitadress.org offline and enter Private Key
-# 4. Get Bitcoin Adress and Bitcoin Private Key (in Base58 Format) if you want to import it to a wallet software
+# 3. Open Bitaddress.org offline and enter Private Key
+# 4. Get Bitcoin Address and Bitcoin Private Key (in Base58 Format) if you want to import it to a wallet software
 
 # Never enter your private key in the internet or your Bitcoin may get stolen
